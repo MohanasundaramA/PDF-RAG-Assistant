@@ -34,10 +34,10 @@ A Retrieval-Augmented Generation (RAG) system for querying PDF documents using l
 
 ## Installation
 
-1.Clone the repository
-2.Install dependencies
-3.Fill in required API keys and configuration values in the .env file
-4.Run the application using Streamlit
+1. Clone the repository
+2. Install dependencies
+3. Fill in required API keys and configuration values in the .env file
+4. Run the application using Streamlit
 
 ## Usage
 
