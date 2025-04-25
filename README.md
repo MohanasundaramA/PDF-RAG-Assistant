@@ -62,3 +62,6 @@ A Retrieval-Augmented Generation (RAG) system for querying PDF documents using l
 - **Vector Stores**: Switch between Chroma (persistent) and FAISS (in-memory)
 - **LLM Providers**: Select between Gemini and SambaNova Cloud
 - **Chunking Parameters**: Adjust chunk size and overlap for document processing
+
+## Demo
+https://drive.google.com/file/d/1hMpRDL62t9Lj34IH4zWZqdUb8PMKkeZX/view?usp=sharing
